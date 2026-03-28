@@ -1,0 +1,6 @@
+Tools that could be used in a real investigation:
+
+- WHOIS lookup
+- DNS analysis
+- Shodan
+- Google dorking
