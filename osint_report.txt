@@ -1,0 +1,16 @@
+OSINT INVESTIGATION REPORT
+
+Target: suspicious-login-alert.com
+Risk Level: MEDIUM-HIGH
+
+Analysis:
+- Domain name appears deceptive
+- No strong reputation
+- Likely used in phishing campaigns
+
+Conclusion:
+This domain should be treated as suspicious.
+
+Recommended Actions:
+- Block domain
+- Investigate related infrastructure
